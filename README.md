@@ -41,7 +41,7 @@ With **4+ years** at **American Express** and **TCS**, I've architected backend 
 | 📉 **API Latency** | **30% reduction** via profiling & caching optimisation |
 | 🔔 **Notifications** | **99% delivery rate** on platform serving **6,000+ applications** |
 | 🔍 **MTTD** | **40% faster** incident diagnosis with Prometheus/Grafana logging |
-| 🎓 **Scholarship** | **WMG Excellence Award — £10,000** |
+| 🎓 **Scholarship** | **WMG Excellence Award** |
 
 </div>
 
